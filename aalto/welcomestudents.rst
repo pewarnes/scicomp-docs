@@ -17,7 +17,7 @@ serve as a good introduction to resources for scientific and
 data-intensive computing at Aalto if you are a student.  This page is
 devoted to resources which are available to students.
 
-If you are involved in a research group or doing researcher for a
+If you are involved in a research group or doing research for a
 professor/group leader, you are a researcher!  You should acquaint
 yourself with all information on this site, starting with
 :doc:`welcomeresearchers` and use whatever you need.
